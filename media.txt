@@ -1,0 +1,7 @@
+
+Game ,fifa22 , 7,g1 , 10.0
+Game ,gta , 0,g2 , 2.0
+Movie ,naw , 2,m1 , 2
+Album ,pal , 7,al , a , s
+Game ,ggg3 , 4,g3 , 1.0
+Movie ,ahmad , 3,123 , 1
